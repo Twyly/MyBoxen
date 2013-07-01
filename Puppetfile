@@ -36,6 +36,7 @@ github "postgresql",    "1.0.0"
 github "sublime_text_2",    "1.1.0"
 github "python",    "1.1.1"
 github "dropbox",    "1.1.0"
+github "skype"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
